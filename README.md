@@ -5,7 +5,7 @@
 <p align="left">
   💻 Atualmente estou aprendendo: <br>
   &emsp;&emsp; ☕ Java <br>
-  &emsp;&emsp; <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></span> JavaScript <br>
+  &emsp;&emsp; <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></span> JavaScript / <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></span> TypeScript <br/>
   &emsp;&emsp; 🐍 Python <br>
 </p>
 <p align="right">
