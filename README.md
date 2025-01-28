@@ -1,10 +1,9 @@
-# 👋 Hi, welcome. My name is Kevin.
+# 👋🏽 Hi, welcome. My name is Kevin.
 <p>I'm 14 years old and i 😍 much like 👨‍💻 create things. I study front-end and back-end to be a full-stack.</p>
 
 ## About me:
 <p align="left">
   💻 I study: <br>
-  &emsp;&emsp; ☕ Java <br>
   &emsp;&emsp; <span><img heigth="12px" width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRD7Is5t1t34phSWiIZ_L_VpazwhDCFANnTA&s"></span> C++ <br/>
   &emsp;&emsp; <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></span> JavaScript / <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></span> TypeScript <br/>
   &emsp;&emsp; 🐍 Python <br>
