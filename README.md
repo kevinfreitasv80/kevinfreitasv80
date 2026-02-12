@@ -1,17 +1,12 @@
-# 👋🏽 Hi, welcome. My name is Kevin.
-<p>I'm 15 years old and i 😍 much like 👨‍💻 create things. I study front-end and back-end to be a full-stack.</p>
+# Hi! 👋My name is Kevin
 
-## About me:
-<p align="left">
-  💻 I study: <br>
-  &emsp;&emsp; <span><img heigth="12px" width="18px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRD7Is5t1t34phSWiIZ_L_VpazwhDCFANnTA&s"></span> C++ <br/>
-  &emsp;&emsp; <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></span> JavaScript / <span><img heigth="12px" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"></span> TypeScript <br/>
-  &emsp;&emsp; 🐍 Python <br>
-</p>
-<p align="right">
-  📫 Contact: <br>
-  kevinfreitasv80@gmail.com &emsp;&emsp;
-</p>
+I like create things, so I use programming to It.
+- 🌎 I live in Fortaleza, Ceará - Brazil;
+- 💻 Learning since 2020.
 
-<p align="left"><img height="195px" src="https://github-readme-stats.vercel.app/api?username=kevinfreitasv80&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117"/></p>
-<p align="right"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinfreitasv80&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" /></p>
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,typescript,react,express,git,github,windows,vscode,vim,vite,tailwind,sqlite,robloxstudio,ps,py)](https://skillicons.dev)
+
+## Social
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kevinho.freitas_)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kevin-freitas-04b391378)
