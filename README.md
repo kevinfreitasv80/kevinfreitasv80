@@ -5,7 +5,7 @@ I like create things, so I use programming to It.
 - 💻 Learning since 2020.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,typescript,react,express,git,github,windows,vscode,vim,vite,tailwind,sqlite,robloxstudio,ps,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,typescript,react,express,git,github,windows,vscode,vite,tailwind,sqlite,ps,py,svelte)](https://skillicons.dev)
 
 ## Social
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/kevinho.freitas_)
